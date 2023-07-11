@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+ 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-wagner-5571a3106/)](https://www.linkedin.com/in/alberto-wagner-5571a3106/)
+[![Gmail Badge](https://img.shields.io/badge/-albertow475@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertow475@gmail.com)](mailto:albertow475@gmail.com
+)
